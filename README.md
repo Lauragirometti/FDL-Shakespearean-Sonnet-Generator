@@ -1,2 +1,2 @@
 # FDL-Shakespearean-Sonnet-Generator
-Project group work for Foundation of Deep Learning course 
+The aim of this project is to develop a Shakespearean sonnets generator using neural network models. 
